@@ -4,7 +4,7 @@
 
 # stacks-webapp-template
 
-Packages for templating SSR Node.js with React apps with little build
+The packages for templating SSR Node.js with React apps with little build
 configuration.
 
 ## Documentation
